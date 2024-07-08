@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, php, mysql, python & javascript
 - 📫 How to reach me;
 - Mobile: 0705186009
-- Mail: yeranwicky@gmail.com
+- Email: yeranwicky@gmail.com
 
 <!---
 yeran-wicky/yeran-wicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
