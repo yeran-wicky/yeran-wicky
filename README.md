@@ -5,7 +5,7 @@
 - Mobile: 0705186009
 - Email: yeranwicky@gmail.com
 
-align="left">Follow on instagram:</h3>
+<h3 align="left">Follow on instagram:</h3>
 <p align="left">
 <a href="https://instagram.com/yeran_wicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeran_wicky" height="30" width="40" /></a>
 </p>
