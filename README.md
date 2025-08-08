@@ -1,4 +1,3 @@
-<!--## Hi, I'm Yeran Wicky! 👋-->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+Everyone!👋🏻;I'm+Yeran+Wicky!😎;An+Undergraduate+Student🎓;Software+Developer👨🏻‍💻;Electronics+Repair+Technician🛠️&color=CF9FFF&background=000000" />
 </h2>
@@ -21,8 +20,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YeranElectronics)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94705186009)
 
-<!-- Add more as needed -->
-
 ---
 
 ### 💻 Tech Stack:
@@ -37,7 +34,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- Add all tech badges you use -->
 
 ---
 
@@ -45,7 +41,6 @@
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 
-<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
