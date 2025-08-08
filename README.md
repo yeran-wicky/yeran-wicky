@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+Everyone!👋🏻;I'm+Yeran+Wicky!😎;An+Undergraduate+Student🎓;Software+Developer👨🏻‍💻;Electronics+Repair+Technician🛠️&color=CF9FFF&background=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+Everyone!👋🏻;I'm+Yeran+Wicky!😎;An+Undergraduate+Student🎓;Software+Developer👨🏻‍💻;Electronics+Repair+Technician🛠️;Contact: yeranwicky@gmail.com&color=CF9FFF&background=000000" />
 </h2>
 
 ## Hi, I'm Yeran Wicky! 👋
