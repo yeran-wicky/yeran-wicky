@@ -1,10 +1,10 @@
 ## Hi, I'm Yeran Wicky! 👋
 
-🌟 Web Developer with 5 years of experience in web development  
-💼 Skilled in React, Node.js, Tailwind CSS, Express.js, and more  
-📚 Currently learning R, Go and Rust as a hobby
-🎓 Undergraduate @SLTC Research University | BSc (Hons) in Data Science
-📫 Reach me at: yeranwicky@gmail.com
+🌟 Web Developer with 5 years of experience in web development <br>
+💼 Skilled in React, Node.js, Tailwind CSS, Express.js, and more <br>
+📚 Currently learning R, Go and Rust as a hobby <br>
+🎓 Undergraduate @ SLTC Research University | BSc (Hons) in Data Science <br>
+📫 Reach me at: [yeranwicky@gmail.com](mailto:yeranwicky@gmail.com)
 
 ---
 
