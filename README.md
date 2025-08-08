@@ -39,7 +39,10 @@
 
 ### 📊 GitHub Stats:
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)  
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats) -->
+<a href="https://github.com/yeran-wicky">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeran-wicky&theme=radical&area=true" />
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 
 ---
