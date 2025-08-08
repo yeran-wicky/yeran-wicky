@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats:
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeran-wicky&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeran-wicky&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 
 ---
