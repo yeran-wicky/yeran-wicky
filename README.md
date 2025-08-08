@@ -42,7 +42,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
-![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=yeran-wicky&theme=radical)
+![Visitor Map](https://github.com/yeran-wicky/yeran-wicky/raw/output/github-contribution-map.svg)
 
 ---
 
