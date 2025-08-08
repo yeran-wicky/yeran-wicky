@@ -42,6 +42,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
+![Animated GitHub Badge](https://img.shields.io/badge/GitHub-Coding-blue?style=for-the-badge&logo=github)
 
 ---
 
