@@ -37,40 +37,10 @@
 
 ---
 
-<!-- ### 📊 GitHub Stats:
+### 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical) -->
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical&hide_title=true&hide_border=true&width=340" 
-      width="340"
-      alt="GitHub Stats" />
-  </div>
-
-  <div>
-    <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=true&width=340" 
-        width="340" 
-        alt="GitHub Streak" />
-    </a>
-  </div>
-
-  <div style="flex-basis: 100%; height: 20px;"></div> <!-- line break spacer -->
-
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical&hide_border=true&width=340" 
-      width="340" 
-      alt="Top Languages" />
-  </div>
-
-</div>
 
 ---
 
