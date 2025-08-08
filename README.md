@@ -42,7 +42,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
-![Visitor Map](https://github.com/yeran-wicky/yeran-wicky/raw/output/github-contribution-map.svg)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo1&theme=radical)](https://github.com/yeran-wicky/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo2&theme=radical)](https://github.com/yeran-wicky/repo2)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo3&theme=radical)](https://github.com/yeran-wicky/repo3)
 
 ---
 
