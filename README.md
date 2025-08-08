@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
-<div style="margin-left: 20px; margin-top: 10px;">
+<div style="align: right;">
   <img src="https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical" alt="Yeran's GitHub stats" />
 </div>
 
