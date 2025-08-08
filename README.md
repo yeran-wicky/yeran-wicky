@@ -39,12 +39,13 @@
 
 ### 📊 GitHub Stats:
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)  
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Current%20Streak-3%20days-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Longest%20Streak-15%20days-red?style=for-the-badge&logo=github" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 
 ---
 
