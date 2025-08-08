@@ -37,14 +37,23 @@
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo1&theme=radical)](https://github.com/yeran-wicky/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo2&theme=radical)](https://github.com/yeran-wicky/repo2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yeran-wicky&repo=repo3&theme=radical)](https://github.com/yeran-wicky/repo3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical) -->
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical" /></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
