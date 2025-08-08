@@ -37,28 +37,11 @@
 
 ---
 
-<!-- ### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 ![Yeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats) -->
-
-### 📊 GitHub Stats:
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-<div style="align: right;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeran-wicky&show_icons=true&theme=radical" alt="Yeran's GitHub stats" />
-</div>
-
-<div style="margin-top: 15px;">
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
