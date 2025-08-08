@@ -42,6 +42,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
+
+### 📅 GitHub Contribution Calendar
+
 ![Yeran's GitHub Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=yeran-wicky&theme=radical)
 
 ---
