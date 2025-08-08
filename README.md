@@ -43,8 +43,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeran-wicky&layout=compact&theme=radical)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Streak-3%20days-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-15%20days-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GITHUB-3%Yeran Wicky-orange?style=for-the-badge&logo=github" />
 </p>
 
 ---
