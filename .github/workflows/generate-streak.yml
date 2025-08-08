@@ -19,7 +19,7 @@ jobs:
 
       - name: Clone streak stats generator
         run: |
-          git clone https://github.com/yeran-wicky/github-readme-streak-stats.git
+          git clone https://github.com/yeran-wicky/streak-stat.git
           cd github-readme-streak-stats
           npm install
 
