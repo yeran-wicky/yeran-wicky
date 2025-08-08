@@ -48,3 +48,7 @@
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=yeran-wicky&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
+---
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=banulawick&color=blue&style=for-the-badge)
