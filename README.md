@@ -3,6 +3,7 @@
 </h2>
 
 ## Hi, I'm Yeran Wicky! 👋
+(formerly 'Yeran Wickramaarachchi')
 
 🌟 Web Developer with 5 years of experience in web development <br>
 🛠️ Also an Electronics Repair Technician specialized in laptops <br>
