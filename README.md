@@ -5,7 +5,7 @@
 ## Hi, I'm Yeran Wicky! 👋
 (formerly: 'Yeran Wickramaarachchi')
 
-🌟 Web Developer with 5 years of experience in web development <br>
+🌟 Web Developer with 6 years of experience in web development <br>
 🛠️ Also an Electronics Repair Technician specialized in laptops <br>
 💼 Skilled in React, Node.js, Tailwind CSS, Express.js, and more <br>
 📚 Currently learning R, Go and Rust as a hobby <br>
